@@ -17,20 +17,26 @@ In this blog I want to introduce the new version of the Tool.
 
 
 ## Features
-###Sync device
+### Sync device
+
 ![Features](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/.images/syncDevice.png)
 
-###Open Company Portal
+### Open Company Portal
+
 ![Features](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/.images/companyPortal.png)
 
-###Open Quick Assist
+### Open Quick Assist
+
 ![Features](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/.images/quickAssist.png)
 
-###Troubleshoot
+### Troubleshoot
+
 ![Features](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/.images/troubleshoot.png)
 
-###System Info
+### System Info
+
 ![Features](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/.images/systemInfo.png)
 
-###Change Password
+### Change Password
+
 ![Features](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/.images/changePassword.png)
