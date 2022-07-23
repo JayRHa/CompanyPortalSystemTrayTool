@@ -14,7 +14,7 @@ Inspiration:
 #################################################
 ##################### Start #####################
 #################################################
-$iconPath = (Split-Path -Parent $($global:MyInvocation.MyCommand.Definition)) + "\icons"
+$iconPath = ($PSScriptRoot + "\icons")
 
 # Load Assemblies
 Add-Type -AssemblyName System.Windows.Forms
