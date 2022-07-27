@@ -103,7 +103,7 @@ $buttonTroubleshootRestartIme = New-Object System.Windows.Forms.ToolStripMenuIte
 $buttonTroubleshootRestartIme.Text = "IME Restart"
 $buttonTroubleshootRestartIme.Image = [System.Drawing.Bitmap]::FromFile("$iconPath\troubleshoot.png")
 $buttonTroubleshootRestartIme.add_Click({
-  Restart-Service -DisplayName "Microsoft Intune Management Extension"
+  Start-Process powershell.exe "-Command","Restart-Service -DisplayName 'Microsoft Intune Management Extension'" -Verb RunAs
 })
 $buttonTroubleshoot.DropDownItems.Add($buttonTroubleshootRestartIme)
 
