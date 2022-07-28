@@ -1,3 +1,3 @@
-del c:\windows\_Tools\IntuneSystemTrayV2 /F /Q
+rmdir /Q /S c:\windows\_Tools\IntuneSystemTrayV2
 
 schtasks /delete /tn StartCompanyPortalSystemtray /F
