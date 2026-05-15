@@ -1,9 +1,9 @@
 <!-- unified-readme:start -->
 <div align="center">
 
-# Company Portal System Tray Tool
+# CompanyPortalSystemTrayTool
 
-**System tray tool that extends Intune Company Portal with quick-access device management actions.**
+**A few weeks ago I released the Company Portal System Tray tool. The posts have a very good feedback and the tool was tested by some and also used productively. I have been working on developing the tool further and integrating more useful functions that can help with troubleshooting. The first version of the Company Portal system tray icon has many quick access possibilities to system tools or logs that are important for troubleshooting an Intune managed device. In addition, this tool has a quick access to open the Company Portal.**
 
 Build. Automate. Share.
 
@@ -11,6 +11,18 @@ Build. Automate. Share.
 [![GitHub forks](https://img.shields.io/github/forks/JayRHa/CompanyPortalSystemTrayTool?style=for-the-badge&logo=github&color=4078c0)](https://github.com/JayRHa/CompanyPortalSystemTrayTool/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/JayRHa/CompanyPortalSystemTrayTool?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/CompanyPortalSystemTrayTool/issues)
 [![Contributors](https://img.shields.io/github/contributors/JayRHa/CompanyPortalSystemTrayTool?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/CompanyPortalSystemTrayTool/graphs/contributors)
+
+[Blog Post]()
+<p align="left">
+  <a href="https://twitter.com/jannik_reinhard">
+    <img src="https://img.shields.io/twitter/follow/jannik_reinhard?style=social" target="_blank" />
+  </a>
+    <a href="https://github.com/JayRHa">
+    <img src="https://img.shields.io/github/followers/JayRHa?style=social" target="_blank" />
+  </a>
+</p>
+In this blog I want to introduce the new version of the Tool.
+![Tool View](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/.images/tooloverview.png)
 
 ---
 
@@ -20,7 +32,7 @@ Build. Automate. Share.
 
 ## What is this?
 
-Company Portal System Tray Tool helps endpoint administrators surface actions, alerts, or helper workflows closer to the device or admin process.
+CompanyPortalSystemTrayTool helps endpoint administrators surface actions, alerts, or helper workflows closer to the device or admin process.
 
 ## Project Context
 
@@ -50,33 +62,10 @@ flowchart LR
    git clone https://github.com/JayRHa/CompanyPortalSystemTrayTool.git
    ```
 
-3. Continue with the project-specific documentation in the next section.
+3. Continue with the setup, usage, or workflow sections below.
 
 ---
 <!-- unified-readme:end -->
-
-<!-- project-documentation:start -->
-## Project Documentation
-
-The sections below contain the repository-specific setup, usage, and reference material for this project.
-
-# CompanyPortalSystemTrayTool
-[Blog Post]()
-<p align="left">
-  <a href="https://twitter.com/jannik_reinhard">
-    <img src="https://img.shields.io/twitter/follow/jannik_reinhard?style=social" target="_blank" />
-  </a>
-    <a href="https://github.com/JayRHa">
-    <img src="https://img.shields.io/github/followers/JayRHa?style=social" target="_blank" />
-  </a>
-</p>
-
-
-A few weeks ago I released the Company Portal System Tray tool. The posts have a very good feedback and the tool was tested by some and also used productively. I have been working on developing the tool further and integrating more useful functions that can help with troubleshooting. The first version of the Company Portal system tray icon has many quick access possibilities to system tools or logs that are important for troubleshooting an Intune managed device. In addition, this tool has a quick access to open the Company Portal.
-
-In this blog I want to introduce the new version of the Tool.
-![Tool View](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/.images/tooloverview.png)
-
 
 ## Features
 ### Sync device
