@@ -1,16 +1,16 @@
 <!-- unified-readme:start -->
 <div align="center">
 
-# CompanyPortalSystemTrayTool
+# Company Portal System Tray Tool
 
 **A few weeks ago I released the Company Portal System Tray tool. The posts have a very good feedback and the tool was tested by some and also used productively. I have been working on developing the tool further and integrating more useful functions that can help with troubleshooting. The first version of the Company Portal system tray icon has many quick access possibilities to system tools or logs that are important for troubleshooting an Intune managed device. In addition, this tool has a quick access to open the Company Portal.**
 
 Build. Automate. Share.
 
-[![GitHub stars](https://img.shields.io/github/stars/JayRHa/CompanyPortalSystemTrayTool?style=for-the-badge&logo=github&color=f4c542)](https://github.com/JayRHa/CompanyPortalSystemTrayTool/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/JayRHa/CompanyPortalSystemTrayTool?style=for-the-badge&logo=github&color=4078c0)](https://github.com/JayRHa/CompanyPortalSystemTrayTool/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/JayRHa/CompanyPortalSystemTrayTool?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/CompanyPortalSystemTrayTool/issues)
-[![Contributors](https://img.shields.io/github/contributors/JayRHa/CompanyPortalSystemTrayTool?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/CompanyPortalSystemTrayTool/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/JayRHa/Company Portal System Tray Tool?style=for-the-badge&logo=github&color=f4c542)](https://github.com/JayRHa/Company Portal System Tray Tool/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/JayRHa/Company Portal System Tray Tool?style=for-the-badge&logo=github&color=4078c0)](https://github.com/JayRHa/Company Portal System Tray Tool/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/JayRHa/Company Portal System Tray Tool?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/Company Portal System Tray Tool/issues)
+[![Contributors](https://img.shields.io/github/contributors/JayRHa/Company Portal System Tray Tool?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/Company Portal System Tray Tool/graphs/contributors)
 
 [Blog Post]()
 <p align="left">
@@ -22,7 +22,7 @@ Build. Automate. Share.
   </a>
 </p>
 In this blog I want to introduce the new version of the Tool.
-![Tool View](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/.images/tooloverview.png)
+![Tool View](https://github.com/JayRHa/Company Portal System Tray Tool/blob/main/.images/tooloverview.png)
 
 ---
 
@@ -32,7 +32,7 @@ In this blog I want to introduce the new version of the Tool.
 
 ## What is this?
 
-CompanyPortalSystemTrayTool helps endpoint administrators surface actions, alerts, or helper workflows closer to the device or admin process.
+Company Portal System Tray Tool helps endpoint administrators surface actions, alerts, or helper workflows closer to the device or admin process.
 
 ## Project Context
 
@@ -59,7 +59,7 @@ flowchart LR
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/JayRHa/CompanyPortalSystemTrayTool.git
+   git clone https://github.com/JayRHa/Company Portal System Tray Tool.git
    ```
 
 3. Continue with the setup, usage, or workflow sections below.
