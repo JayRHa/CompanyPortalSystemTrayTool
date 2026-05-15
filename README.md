@@ -20,7 +20,7 @@ Build. Automate. Share.
 
 ## What is this?
 
-This repository provides system tray tool that extends Intune Company Portal with quick-access device management actions.
+System tray tool that extends Intune Company Portal with quick-access device management actions.
 
 > Browse the documentation below for setup notes, usage details, and project-specific context.
 
