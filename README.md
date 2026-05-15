@@ -1,34 +1,34 @@
 <!-- unified-readme:start -->
-    <div align="center">
+<div align="center">
 
-    # Company Portal System Tray Tool
+# Company Portal System Tray Tool
 
-    **System tray tool that extends Intune Company Portal with quick-access device management actions.**
+**System tray tool that extends Intune Company Portal with quick-access device management actions.**
 
-    Build. Automate. Share.
+Build. Automate. Share.
 
-    [![GitHub stars](https://img.shields.io/github/stars/JayRHa/CompanyPortalSystemTrayTool?style=for-the-badge&logo=github&color=f4c542)](https://github.com/JayRHa/CompanyPortalSystemTrayTool/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/JayRHa/CompanyPortalSystemTrayTool?style=for-the-badge&logo=github&color=f4c542)](https://github.com/JayRHa/CompanyPortalSystemTrayTool/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/JayRHa/CompanyPortalSystemTrayTool?style=for-the-badge&logo=github&color=4078c0)](https://github.com/JayRHa/CompanyPortalSystemTrayTool/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/JayRHa/CompanyPortalSystemTrayTool?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/CompanyPortalSystemTrayTool/issues)
 [![Contributors](https://img.shields.io/github/contributors/JayRHa/CompanyPortalSystemTrayTool?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/CompanyPortalSystemTrayTool/graphs/contributors)
 
-    ---
+---
 
-    `Endpoint Management` | `PowerShell` | `Public` | `Maintained`
+`Endpoint Management` | `PowerShell` | `Public` | `Maintained`
 
-    </div>
+</div>
 
-    ## What is this?
+## What is this?
 
-    This repository contains system tray tool that extends Intune Company Portal with quick-access device management actions.
+This repository provides system tray tool that extends Intune Company Portal with quick-access device management actions.
 
-    > Browse the documentation below for setup notes, usage details, and project-specific context.
+> Browse the documentation below for setup notes, usage details, and project-specific context.
 
-    ---
+---
 
-    ## Quick Start
+## Quick Start
 
-    1. Review the project documentation below.
+1. Review the project documentation below.
 2. Clone the repository:
 
    ```bash
@@ -37,9 +37,8 @@
 
 3. Follow the setup, deployment, or usage notes in the preserved documentation section.
 
-    ---
-    <!-- unified-readme:end -->
-
+---
+<!-- unified-readme:end -->
 
 ## Existing Documentation
 
