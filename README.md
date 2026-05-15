@@ -14,33 +14,51 @@ Build. Automate. Share.
 
 ---
 
-`Endpoint Management` | `PowerShell` | `Public` | `Maintained`
+`Endpoint Helper` | `PowerShell` | `Public` | `Maintained`
 
 </div>
 
 ## What is this?
 
-System tray tool that extends Intune Company Portal with quick-access device management actions.
+Company Portal System Tray Tool helps endpoint administrators surface actions, alerts, or helper workflows closer to the device or admin process.
 
-> Browse the documentation below for setup notes, usage details, and project-specific context.
+## Project Context
 
----
+- Use it when endpoint state should trigger a visible notification, shortcut, or admin action.
+- The project bridges local device context with management workflows.
+- This repository is maintained as a practical project and reference asset.
+
+## How It Works
+
+Device or admin signals are collected, evaluated against the workflow logic, then surfaced as notifications, tray actions, or follow-up tasks.
+
+```mermaid
+flowchart LR
+    Signal[Device or admin signal] --> Logic[Workflow logic]
+    Logic --> Action[Notification or quick action]
+    Action --> Admin[Admin or user]
+    Admin --> FollowUp[Follow-up action]
+    FollowUp --> Signal
+```
 
 ## Quick Start
 
-1. Review the project documentation below.
+1. Review the project context and workflow below.
 2. Clone the repository:
 
    ```bash
    git clone https://github.com/JayRHa/CompanyPortalSystemTrayTool.git
    ```
 
-3. Follow the setup, deployment, or usage notes in the preserved documentation section.
+3. Continue with the project-specific documentation in the next section.
 
 ---
 <!-- unified-readme:end -->
 
-## Existing Documentation
+<!-- project-documentation:start -->
+## Project Documentation
+
+The sections below contain the repository-specific setup, usage, and reference material for this project.
 
 # CompanyPortalSystemTrayTool
 [Blog Post]()
