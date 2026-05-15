@@ -13,7 +13,7 @@ Build. Automate. Share.
 [![Contributors](https://img.shields.io/github/contributors/JayRHa/CompanyPortalSystemTrayTool?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/CompanyPortalSystemTrayTool/graphs/contributors)
 
 In this blog I want to introduce the new version of the Tool.
-![Tool View](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/.images/tooloverview.png)
+![Tool View](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/assets/tooloverview.png)
 
 <p>
   <a href="https://jannikreinhard.com/">Blog</a> ·
@@ -67,24 +67,24 @@ flowchart LR
 ## Features
 ### Sync device
 
-![Features](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/.images/syncDevice.png)
+![Features](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/assets/syncDevice.png)
 
 ### Open Company Portal
 
-![Features](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/.images/companyPortal.png)
+![Features](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/assets/companyPortal.png)
 
 ### Open Quick Assist
 
-![Features](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/.images/quickAssist.png)
+![Features](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/assets/quickAssist.png)
 
 ### Troubleshoot
 
-![Features](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/.images/troubleshoot.png)
+![Features](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/assets/troubleshoot.png)
 
 ### System Info
 
-![Features](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/.images/systemInfo.png)
+![Features](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/assets/systemInfo.png)
 
 ### Change Password
 
-![Features](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/.images/changePassword.png)
+![Features](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/assets/changePassword.png)
