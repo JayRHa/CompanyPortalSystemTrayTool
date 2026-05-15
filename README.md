@@ -14,7 +14,7 @@ Build. Automate. Share.
 
 [Blog Post]()
 <p align="left">
-  <a href="https://twitter.com/jannik_reinhard">
+  <a href="https://x.com/jannik_reinhard">
     <img src="https://img.shields.io/twitter/follow/jannik_reinhard?style=social" target="_blank" />
   </a>
     <a href="https://github.com/JayRHa">
@@ -23,6 +23,12 @@ Build. Automate. Share.
 </p>
 In this blog I want to introduce the new version of the Tool.
 ![Tool View](https://github.com/JayRHa/Company Portal System Tray Tool/blob/main/.images/tooloverview.png)
+
+<p>
+  <a href="https://jannikreinhard.com/">Blog</a> ·
+  <a href="https://www.linkedin.com/in/jannik-r/">LinkedIn</a> ·
+  <a href="https://x.com/jannik_reinhard">X</a>
+</p>
 
 ---
 
