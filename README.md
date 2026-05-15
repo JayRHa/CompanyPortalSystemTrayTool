@@ -1,3 +1,18 @@
+<!-- repo-standard:start -->
+# Company Portal System Tray Tool
+
+System tray tool that extends Intune Company Portal with quick-access device management actions.
+
+| Area | Stack | Visibility |
+| --- | --- | --- |
+| Endpoint Management | PowerShell, Windows | Public |
+
+**Repository:** `JayRHa/company-portal-system-tray-tool`  
+**Topics:** `company-portal`, `microsoft-intune`, `powershell`, `windows`, `system-tray`
+<!-- repo-standard:end -->
+
+---
+
 # CompanyPortalSystemTrayTool
 [Blog Post]()
 <p align="left">
