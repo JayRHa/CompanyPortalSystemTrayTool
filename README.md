@@ -12,17 +12,8 @@ Build. Automate. Share.
 [![GitHub issues](https://img.shields.io/github/issues/JayRHa/CompanyPortalSystemTrayTool?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/CompanyPortalSystemTrayTool/issues)
 [![Contributors](https://img.shields.io/github/contributors/JayRHa/CompanyPortalSystemTrayTool?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/CompanyPortalSystemTrayTool/graphs/contributors)
 
-[Blog Post]()
-<p align="left">
-  <a href="https://x.com/jannik_reinhard">
-    <img src="https://img.shields.io/twitter/follow/jannik_reinhard?style=social" target="_blank" />
-  </a>
-    <a href="https://github.com/JayRHa">
-    <img src="https://img.shields.io/github/followers/JayRHa?style=social" target="_blank" />
-  </a>
-</p>
 In this blog I want to introduce the new version of the Tool.
-![Tool View](https://github.com/JayRHa/Company Portal System Tray Tool/blob/main/.images/tooloverview.png)
+![Tool View](https://github.com/JayRHa/CompanyPortalSystemTrayTool/blob/main/.images/tooloverview.png)
 
 <p>
   <a href="https://jannikreinhard.com/">Blog</a> ·
